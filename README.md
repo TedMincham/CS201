@@ -81,6 +81,3 @@ Use Branches: Create branches for new features or bug fixes.
 Push Regularly: Push changes to GitHub to back up your progress.
 Summary
 The Skyward Quest Prototype is a starting point for an action-adventure game where players can move, jump, climb, and use elemental powers to explore their surroundings. This prototype provides core functionality, such as basic player movement, elemental power switching, and climbing mechanics, making it a good foundation for further game development.
-
-Feel free to expand upon this foundation with additional gameplay features, improved visuals, and a more immersive game environment. If you need more guidance or help with additional features, let me know!
-
